@@ -26,7 +26,7 @@
 8.2 Follow us <br>
 8.3 References <br>
 
-# 1. LEGAL DISCLAIMER<summary> </summary><details></details><br>
+# 1. LEGAL DISCLAIMER <br>
 The purpose of this document is to present the EXMR FDN. project. EXMR offers potential holders the power to acquire their ERC-20 tokens created within a smart-contract; the main function is to operate within an ecosystem or business platform called GetCryptoPayments.com + staking and Dev’s Bounty reward. The information contained below may not be exhaustive and does not imply any elements of a contractual relationship. Its sole purpose is to provide relevant and reasonable information to the holders of possible tokens so that they can carry out a thorough analysis of the company with the intention of acquiring their EXMR FDN. <br>
 This document does not constitute an offer of sale or a request for an offer to purchase or a guarantee in any jurisdiction in which it is illegal to make such an offer or request according to the guidelines of La Suiza FINMA, the securities of the United States and the SEC. or any other foreign regulatory authority has approved an investment in the tokens. An EXMR FDN. can be classified as a guarantee of privacy as a right to tokens holders, to receive the benefits of their development operations and unique features. The statements, estimates and financial information contained in this document constitute statements or information. Such statements or information are related to known and unknown risks and uncertainties that could cause actual results or events to differ materially from the estimates or results expressed in such implied or prospective statements. This document is the official document in English, which is the official source of information about the EXMR FDN. The information contained in this document may be used in the course of written or verbal communication with existing and potential community members, partners, etc. In the course of the information, the content may change during the evolution of the EXMR FDN. project. The accuracy of the White Paper in English, the provisions of the original document in English will prevail.<br>
 
@@ -117,3 +117,4 @@ https://github.com/EXMRCoin <br>
 # 8.3 REFERENCES <br>
 https://www.ethnews.com/ethereums-road-map-for-2017 <br>
 https://www.ethereum.org/learn/#eth-2-0 <br>
+<summary> STAKING EXMR FDN.</summary><details>https://dapp.exmr.io</details>
