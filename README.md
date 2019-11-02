@@ -104,7 +104,7 @@ EXMR FDN. has only 75 million Maximum supply and is compatible with the Ethereum
 support@exmr.io  https://exmrfoundation.org <br>
 
 # 8.2 FOLLOW US <br>       
-https://t.me/JoinEXMR <br>
+<img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_telegram.png" height="100%" width="100%">https://t.me/JoinEXMR <br>
 https://twitter.com/exmrcoin <br>
 https://facebook.com/exmrcoin <br>
 https://discord.gg/eNhFzgy <br>
