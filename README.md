@@ -1,5 +1,5 @@
-# EXMR FOUNDATION. <br>
-<article class="markdown-body entry-content" itemprop="text"><h2><a href="#protocol-Function" aria-hidden="true" class="anchor" id="user-content-protocol-demo"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d=""></path></svg></a>EXMR FDN.</h2>
+# WHITEPAPER. <br>
+<article class="markdown-body entry-content" itemprop="text"><h2><a href="#protocol-Function" aria-hidden="true" class="anchor" id="user-content-protocol-demo"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d=""></path></svg></a>EXMR FOUNDATION [EXMR FDN.] (EXMR)</h2>
 <p>Integrating developers for a better future for the crypto world! <br></p>
 
 <img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/portal.png" height="800" width="100%">
