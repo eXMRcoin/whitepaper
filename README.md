@@ -118,6 +118,7 @@ EXMR FDN. has only 75 million Maximum supply and is compatible with the Ethereum
 <a href="https://github.com/EXMRCoin"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/Github1d.png" title="GITHUB" alt="GITHUB"></a> GITHUB <br>
 
 # 8.3 REFERENCES <br>
-https://www.ethnews.com/ethereums-road-map-for-2017 <br>
+https://ethereum.org
+https://github.com/ethereum<br>
 https://www.ethereum.org/learn/#eth-2-0 <br>
 <summary> STAKING EXMR FDN.</summary><details>https://dapp.exmr.io</details>
