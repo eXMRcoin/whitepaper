@@ -109,7 +109,7 @@ EXMR FDN. has only 75 million Maximum supply and is compatible with the Ethereum
 <a href="https://facebook.com/exmrcoin"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_facebook.png" title="FACEBOOK" alt="FACEBOOK"></a> FACEBOOK <br>
 <a href="https://reddit.com/r/exmr"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_reddit.png" title="REDDIT" alt="REDDIT"></a> REDDIT <br>
 <a href="https://medium.com/@EXMR"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_newsletter.png" title="MEDIUM" alt="MEDIUM"></a> MEDIUM <br>
-<a href="https://www.instagram.com/GetCryptoPayments"><img src="hhttps://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/instagram.png" title="INSTAGRAM" alt="INSTAGRAM"></a> INSTAGRAM <br>
+<a href="https://www.instagram.com/GetCryptoPayments"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/instagram.png" title="INSTAGRAM" alt="INSTAGRAM"></a> INSTAGRAM <br>
 <a href="https://www.youtube.com/c/EXMRTOKEN"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_youtube.png" title="YOUTUBE" alt="YOUTUBE"></a> YOUTUBE <br>
 <a href="https://www.linkedin.com/company/getcryptopayments"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/linkedin.png" title="LINKEDIN" alt="LINKEDIN"></a> LINKEDIN <br>
 <a href="https://discord.gg/eNhFzgy"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_discord.png" title="DISCORD" alt="DISCORD"></a> DISCORD <br>
