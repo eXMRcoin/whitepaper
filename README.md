@@ -113,6 +113,7 @@ EXMR FDN. has only 75 million Maximum supply and is compatible with the Ethereum
 <a href="https://www.youtube.com/c/EXMRTOKEN"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_youtube.png" title="YOUTUBE" alt="YOUTUBE"></a> YOUTUBE <br>
 <a href="https://www.linkedin.com/company/getcryptopayments"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/linkedin.png" title="LINKEDIN" alt="LINKEDIN"></a> LINKEDIN <br>
 <a href="https://discord.gg/eNhFzgy"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_discord.png" title="DISCORD" alt="DISCORD"></a> DISCORD <br>
+<a href="https://exmr-workspace.slack.com/"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_slack.png" title="SLACK" alt="SLACK"></a> SLACK <br>
 <a href="https://GetCryptoPayments.com"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_do_you_know.png" title="GETCRYPTOPAYMENTS" alt="GETCRYPTOPAYMENTS"></a> GETCRYPTOPAYMENTS <br>
 <a href="https://github.com/EXMRCoin"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/Github1d.png" title="GITHUB" alt="GITHUB"></a> GITHUB <br>
 
