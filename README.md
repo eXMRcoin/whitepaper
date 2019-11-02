@@ -45,21 +45,19 @@ We are helping to expand the boundaries of investment possibilities and to encou
 # 2.3 THE PROBLEM <br>
 In the cryptocurrency market, the main problems are the misuse of many dark sectors, both in laundering and in terrorism. EXMR FDN. aims to be the difference by offering commercial use, to be accepted by all countries. New people who join the Blockchain technology and who access cryptocurrencies without knowledge, buying and selling in exchanges, will find in EXMR FDN. a low-risk token, which aims to be a reference or gateway for new people You will enter this fascinating world of cryptocurrencies. <br>
 
-
-
 # 3. THE SOLUTION <br>
 Any business or individual wants speed, convenience, transparency, low operating costs, security and control over your transactions all these advantages and solutions. Our motive is to encourage online crypto payments and Fiat service with our GetCryptoPayments, better confidence towards the tokens and all the cryptocurrencies at the same time. Another solution is that now a number of stores and online merchants may receive payments in EXMR FDN. with zero costs of rate and other cryptocurrencies with low rates... GetCryptoPayments is creating an opportunity for cryptocurrencies by bringing them to everyday use. <br>
 
 # 3.1 TECHNICAL INFORMATION <br>
 
-•	Why we select Ethereum Blockchain <br>
+# •	Why we select Ethereum Blockchain <br>
 The blockchain of the Ethereum has a high technological level, it works very similar to Bitcoin, but above all the most important thing the blockchain consists of a series of blocks and each block contains a pointer to the previous block and an ordered list of operations. Blocks are secured by the proof of work, with a "long chain" (as defined by the total difficulty) by defining the set of committed transactions and order that must be processed. To get to the "current state" of the Ethereum blockchain, a node can start from the State of "genesis" (a common initial state that is included with each client from Ethereum) and process each transaction, any balance/sequence resulting from the application number code storage changes sequentially processing and code of execution of the transaction. The same process occurs in Bitcoin; Although Ethereum’ s emphasis on "transition state" of the execution of the transaction model is unique (for example, in Bitcoin, a transaction often philosophical is seen as an expense "outputs" from a previous operation in history, not in objects in the State), the way it works the code Ethereum, Bitcoin and other protocols such as Ripple, Dogecoin, etc., is essentially the same. <br>
 
 # 3.2 EXMR FDN. <br>
 EXMR FDN. is replacing EXMR was created the last October 2017. <br>
 EXMR FDN. believes that up to 75 million this means an increase in our community. <br>
 
-Name EXMR FDN. <br>
+Name: EXMR FDN. <br>
 Symbol: EXMR <br>
 Decimal: 18 <br>
 Contract: 0x331fA6C97c64e47475164b9fC8143b533c5eF529 <br>
@@ -70,7 +68,7 @@ Maximum Supply: 75 million <br>
 We present the Staking + Dev. Bounty rewards program with EXMR FDN. Staking reward shows that we gratify our community, and makes our EXMR FDN. every day one of the most famous and coveted projects by all, EXMR FDN. is among all the cryptocurrencies in the market the noblest, we dare to say that soon we will take an enviable position before many other altcoins, our strategy will create different projects with an expansion of our developer community, where each participant benefits from EXMR FDN. directly while help EXMR FDN. to achieve its goals. <br>
 
 # Graphic of Developer Bounty Cycle. <br> 
-
+<img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/bounty-dev-program.png" height="500" width="100%">
 
 # 5. VALUE FOR HOLDERS <br>
 The value of EXMR FDN. is determined by these three factors. <br> 
@@ -82,7 +80,7 @@ We have built a community that is very strong, managing to create popularity, wi
                
 
 # 6. ROADMAP <br>
-
+<img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/roadmap2019.png" height="800" width="100%">
 
 # 7 GETCRYPTOPAYMENTS <br>
 Meet our project: <br>
