@@ -6,8 +6,8 @@
 
 # Content 
 
- <summary>1. Legal Disclaimer</summary>
-<details>1.1 Overview</details> <br>
+ <summary>1. Legal Disclaimer <details>1.1 Overview</details></summary>
+ <br>
 2. Introduction <br>
 2.1 Mission <br>
 2.2 Vision <br>
