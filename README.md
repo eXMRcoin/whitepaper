@@ -2,7 +2,7 @@
 <article class="markdown-body entry-content" itemprop="text"><h2><a href="#protocol-Function" aria-hidden="true" class="anchor" id="user-content-protocol-demo"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d=""></path></svg></a>EXMR FDN.</h2>
 <p>Integrating developers for a better future for the crypto world! <br></p>
 
-<img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/portal3.png" height="800" width="100%">
+<img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/portal.png" height="800" width="100%">
 
 # Content 
 
@@ -68,19 +68,20 @@ Maximum Supply: 75 million <br>
 We present the Staking + Dev. Bounty rewards program with EXMR FDN. Staking reward shows that we gratify our community, and makes our EXMR FDN. every day one of the most famous and coveted projects by all, EXMR FDN. is among all the cryptocurrencies in the market the noblest, we dare to say that soon we will take an enviable position before many other altcoins, our strategy will create different projects with an expansion of our developer community, where each participant benefits from EXMR FDN. directly while help EXMR FDN. to achieve its goals. <br>
 
 # Graphic of Developer Bounty Cycle. <br> 
-<img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/bounty-dev-program.png" height="500" width="100%">
+<img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/dev-bounty.png" height="500" width="100%">
 
 # 5. VALUE FOR HOLDERS <br>
 The value of EXMR FDN. is determined by these three factors. <br> 
 First - EXMR FDN. with a staking and developer bounty of 59 million EXMR FDN, estimated to reach in a short time an important utility, by the natural demand of EXMR FDN., creating this increase in the value of EXMR FDN. from the creation of important Dapp’s by the developer’s community. <br>
 Second -EXMR FDN. controlled the staking rewards, payment a 0.01% daily, to achieve its value on the market, many people possible acquired through markets called Exchanges. <br>
+<img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ecosystem.png" height="500" width="100%">
 
 # 5.1 ACHIEVEMENTS <br>
 We have built a community that is very strong, managing to create popularity, within the first year obtained more than 3k followers on Twitter, 12K on Facebook, etc., more than 10K members are connected now to EXMR FDN. in all Telegrams groups. <br>
                
 
 # 6. ROADMAP <br>
-<img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/roadmap2019.png" height="800" width="100%">
+<img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/roadmap.png" height="800" width="100%">
 
 # 7 GETCRYPTOPAYMENTS <br>
 Meet our project: <br>
