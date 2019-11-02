@@ -104,15 +104,14 @@ EXMR FDN. has only 75 million Maximum supply and is compatible with the Ethereum
 support@exmr.io  https://exmrfoundation.org <br>
 
 # 8.2 FOLLOW US <br>  
-<a href="https://t.me/JoinEXMR"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_telegram.png" title="TELEGRAM" alt="TELEGRAM"></a> <br>
-<img src=""> <br>
-https://twitter.com/exmrcoin <br>
-https://facebook.com/exmrcoin <br>
-https://discord.gg/eNhFzgy <br>
-https://reddit.com/r/exmr <br>
-https://GetCryptoPayments.com <br>
-https://medium.com/@EXMR <br>
-https://github.com/EXMRCoin <br>
+<a href="https://t.me/JoinEXMR"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_telegram.png" title="TELEGRAM" alt="TELEGRAM"></a> TELEGRAM <br>
+<a href="https://twitter.com/exmrcoin"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_twitter.png" title="TWITTER" alt="TWITTER"></a> TWITTER <br>
+<a href="https://facebook.com/exmrcoin"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_facebook.png" title="FACEBOOK" alt="FACEBOOK"></a> FACEBOOK <br>
+<a href="https://reddit.com/r/exmr"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_reddit.png" title="REDDIT" alt="REDDIT"></a> REDDIT <br>
+<a href="https://medium.com/@EXMR"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_newsletter.png" title="MEDIUM" alt="MEDIUM"></a> MEDIUM <br>
+<a href="https://discord.gg/eNhFzgy"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_discord.png" title="DISCORD" alt="DISCORD"></a> DISCORD <br>
+<a href="https://GetCryptoPayments.com"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_do_you_know.png" title="GETCRYPTOPAYMENTS" alt="GETCRYPTOPAYMENTS"></a> GETCRYPTOPAYMENTS <br>
+<a href="https://github.com/EXMRCoin"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/Github1d.png" title="GITHUB" alt="GITHUB"></a> GITHUB <br>
 
 # 8.3 REFERENCES <br>
 https://www.ethnews.com/ethereums-road-map-for-2017 <br>
