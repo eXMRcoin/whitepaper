@@ -3,6 +3,9 @@ Integrating developers for a better future for the crypto world! <br>
 <img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/portal3.png" height="800" width="100%">
 
 # Content 
+# About Smart contract 
+ <article class="markdown-body entry-content" itemprop="text"><h1><a href="#protocol-Function" aria-hidden="true" class="anchor" id="user-content-protocol-demo"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d=""></path></svg></a>Protocol-Function</h1>
+<p>This repository of smart contracts contains the EXMR Protocol to demonstrate Leverage on-chain using 0x and Relayers</p>
 1. Legal Disclaimer <br>
 1.1 Overview <br>
 2. Introduction <br>
