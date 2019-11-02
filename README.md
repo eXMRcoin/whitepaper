@@ -1,7 +1,7 @@
 # whitepaper
 
 
-<img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/portal3.png" height="500" width="500">
+<img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/portal3.png" height="500" width="100%">
 
 
 
