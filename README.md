@@ -101,7 +101,7 @@ GetCryptoPayments is a well-conceived and complete ecosystem. You can find the p
 EXMR FDN. has only 75 million Maximum supply and is compatible with the Ethereum platform that provides in the world of encryption, with the new blockchain technology that we are integrating the ERC-20 and our EXMR FDN. is now faster. Our main proposal is to cover several fundamental aspects: Security, lower-cost transactions, speed and our business prototype an online payment gateway and Fiat services, a point of sales (POS), multiple wallets, and a global expansion of our project. A macro exposition and the unlimited use of the crypto world will make EXMR FDN. reach different countries around the world so that everyone can use our online services. Now everything is changing, the old technology has always been replaced by the new one, and remember that the new technology provides a new opportunity for everyone, so be part of it. Investors in the world of cryptocurrency can take this opportunity to obtain each EXMR FDN. now at a low cost with the assurance that our project is growing, and you will always be supported by EXMR FDN. Community and GetCryptoPayments.com platform. <br>
 
 # 8.1 CONTACT US <br>
-<a href="mailto:support@exmr.io"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_contact.png" title="OFFICIAL WEBSITE" alt="support@exmr.io">support@exmr.io</a><br>
+<a href="mailto:support@exmr.io"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_contact.png" title="OFFICIAL WEBSITE" alt="support@exmr.io"> support@exmr.io</a><br>
 <a href="https://exmrfoundation.org"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/link_3d.png" title="OFFICIAL WEBSITE" alt="OFFICIAL WEBSITE"></a> OFFICIAL WEBSITE <br>
 # 8.2 FOLLOW US <br>  
 <a href="https://t.me/JoinEXMR"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_telegram.png" title="TELEGRAM" alt="TELEGRAM"></a> TELEGRAM <br>
@@ -109,6 +109,9 @@ EXMR FDN. has only 75 million Maximum supply and is compatible with the Ethereum
 <a href="https://facebook.com/exmrcoin"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_facebook.png" title="FACEBOOK" alt="FACEBOOK"></a> FACEBOOK <br>
 <a href="https://reddit.com/r/exmr"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_reddit.png" title="REDDIT" alt="REDDIT"></a> REDDIT <br>
 <a href="https://medium.com/@EXMR"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_newsletter.png" title="MEDIUM" alt="MEDIUM"></a> MEDIUM <br>
+<a href="https://www.instagram.com/GetCryptoPayments"><img src="hhttps://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/instagram.png" title="INSTAGRAM" alt="INSTAGRAM"></a> INSTAGRAM <br>
+<a href="https://www.youtube.com/c/EXMRTOKEN"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_youtube.png" title="YOUTUBE" alt="YOUTUBE"></a> YOUTUBE <br>
+<a href="https://www.linkedin.com/company/getcryptopayments"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/linkedin.png" title="LINKEDIN" alt="LINKEDIN"></a> LINKEDIN <br>
 <a href="https://discord.gg/eNhFzgy"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_discord.png" title="DISCORD" alt="DISCORD"></a> DISCORD <br>
 <a href="https://GetCryptoPayments.com"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/ic_do_you_know.png" title="GETCRYPTOPAYMENTS" alt="GETCRYPTOPAYMENTS"></a> GETCRYPTOPAYMENTS <br>
 <a href="https://github.com/EXMRCoin"><img src="https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/Github1d.png" title="GITHUB" alt="GITHUB"></a> GITHUB <br>
