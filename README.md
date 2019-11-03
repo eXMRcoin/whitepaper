@@ -121,4 +121,4 @@ EXMR FDN. has only 75 million Maximum supply and is compatible with the Ethereum
 https://ethereum.org
 https://github.com/ethereum<br>
 https://www.ethereum.org/learn/#eth-2-0 <br>
-<summary> STAKING EXMR FDN.</summary><details>You should only have EXMR FDN. In your wallet, install METAMASK, and go to this dapp: https://dapp.exmr.io place the amount to stake in row freeze and click</details>
+<summary> STAKING EXMR FDN.</summary><details>You should only have EXMR FDN. In your wallet, install METAMASK, and go to this dapp: https://dapp.exmr.io place the amount to stake in the freeze box and click</details>
