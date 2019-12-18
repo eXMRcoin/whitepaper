@@ -7,28 +7,43 @@
 # Content 
 
 1. Legal Disclaimer <br>
-1.1 Overview  <br>
-2. Introduction <br>
-2.1 Mission <br>
-2.2 Vision <br>
-2.3 The Problem <br>
-3. The Solution <br>
-3.1 Technical Information <br>
-• Ethereum Blockchain <br>
-3.2 EXMR FDN. <br>
-4. Staking & Dev Program <br>
-5. Value for Holders <br>
-5.1 Achievements <br>
-6. Roadmap <br>
-7 GetCryptoPayments <br>
-8. Conclusion <br>
-8.1 Contact us <br>
-8.2 Follow us <br>
-8.3 References <br>
+2. Overview  <br>
+3. Advantages <br>
+4. Introduction <br>
+5. Mission <br>
+6. Vision <br>
+7. The Problem <br>
+8. The Solution <br>
+9. Technical Information <br>
+10. EXMR FDN. <br>
+11. Value for Holders <br>
+12. Achievements <br>
+13. Roadmap <br>
+14. GetCryptoPayments <br>
+15. Conclusion <br>
+16. Final Provision <br>
+17. Contact us <br>
+18. Social Media <br>
+19. References <br>
 
 # 1. LEGAL DISCLAIMER <br>
-<justify>The purpose of this document is to present the EXMR FDN. project. EXMR offers potential holders the power to acquire their ERC-20 tokens created within a smart-contract; the main function is to operate within an ecosystem or business platform called GetCryptoPayments.com + staking and Dev’s Bounty reward. The information contained below may not be exhaustive and does not imply any elements of a contractual relationship. Its sole purpose is to provide relevant and reasonable information to the holders of possible tokens so that they can carry out a thorough analysis of the company with the intention of acquiring their EXMR FDN. <br>
-This document does not constitute an offer of sale or a request for an offer to purchase or a guarantee in any jurisdiction in which it is illegal to make such an offer or request according to the guidelines of La Suiza FINMA, the securities of the United States and the SEC. or any other foreign regulatory authority has approved an investment in the tokens. An EXMR FDN. can be classified as a guarantee of privacy as a right to tokens holders, to receive the benefits of their development operations and unique features. The statements, estimates and financial information contained in this document constitute statements or information. Such statements or information are related to known and unknown risks and uncertainties that could cause actual results or events to differ materially from the estimates or results expressed in such implied or prospective statements. This document is the official document in English, which is the official source of information about the EXMR FDN. The information contained in this document may be used in the course of written or verbal communication with existing and potential community members, partners, etc. In the course of the information, the content may change during the evolution of the EXMR FDN. project. The accuracy of the White Paper in English, the provisions of the original document in English will prevail.</justify><br>
+<justify>This document does not constitute an offer of sale or a request for an offer to purchase or a guarantee
+in any jurisdiction in which it is illegal to make such an offer or request according to the guidelines of
+La Suiza FINMA, the securities of the United States and the SEC.
+The statements, estimates and financial information contained in this document constitute statements
+or information. Such statements or information are related to known and unknown risks and
+uncertainties that could cause actual results or events to differ materially from the estimates or results
+expressed in such implied or prospective statements.
+The information contained in this document may be used in the course of written or verbal
+communication with existing and potential community members, partners, etc. In the course of the
+information, the content may change during the evolution of the EXMR FDN. project.
+The information contained below may not be exhaustive and does not imply any elements of a
+contractual relationship. Its sole purpose is to provide relevant and reasonable information to the
+holders of possible tokens so that they can carry out a thorough analysis of the company with the
+intention of acquiring their EXMR FDN.
+This document is the official document in English, which is the official source of information about
+the EXMR FDN. The accuracy of the White Paper in English, the provisions of the original
+document in English will prevail.</justify><br>
 
 # 1.1 OVERVIEW <br>
 EXMR FDN. is an ERC20 Standard token, based on the interface of the Ethereum blockchain. Our growing community accepts Ethereum technology, because it is one of the best platforms that maintain a constant technological advance, offering speed and security in transactions, the advantage of obtaining an EXMR FDN., in addition to its great project, is because you will have the absolute and complete control of your transactions, this immediately makes EXMR FDN. an efficient digital asset. All these advantages of being under the Ethereum ecosystem, accompanied by the EXMR FDN. the contract that aims to encourage purchases and sales online through the main cryptocurrencies, visualize a great future for EXMR FDN., which will become one of the most requested crypts for their usefulness and benefits. The EXMR FDN. GetCryptoPayments project will offer the possibility for people to buy goods and services in online stores, as well as making cryptographic payments in person through the Point of Sales (POS) system. The entire community involved in the world of cryptocurrencies will find EXMR FDN., another ally or commercial partner of the first line, it is important to keep in mind that EXMR FDN. is not controlled by a central organization, this refers that there is not a single agent with the power to modify the rules of the shareholders or the economy of the token, if not that it works under a consensus in each movement. This document presents the philosophical, technical and economic mechanisms of EXMR FDN. <br>
